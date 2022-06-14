@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+}
+input {
+  border: 0;
+}
+input:focus {
+  background-color: green !important;
+}
+.inputCache {
+  visibility: hidden !important;
+}
